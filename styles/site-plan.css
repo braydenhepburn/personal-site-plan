@@ -42,6 +42,8 @@
   img {
     display: block;
     margin: 0 auto;
+    width: 200px;
+    
   }
   h1, h2, h3, h4, h5, h6 {
     font-family: var(--heading-font);
@@ -175,3 +177,4 @@
     grid-area: right;
     border-top: 1px solid;
     border-right: 1px solid;
+  }
