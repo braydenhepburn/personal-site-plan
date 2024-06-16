@@ -30,7 +30,7 @@
   }
   
   
-  /*  Look around below...but DON'T CHANGE ANYTHING! */
+  /*  Look around below...but DON'T CHANGE ANYTHING! (I WONT)*/
   
   body {
     max-width: 1200px;
@@ -43,7 +43,7 @@
     display: block;
     margin: 0 auto;
     width: 200px;
-    
+
   }
   h1, h2, h3, h4, h5, h6 {
     font-family: var(--heading-font);
